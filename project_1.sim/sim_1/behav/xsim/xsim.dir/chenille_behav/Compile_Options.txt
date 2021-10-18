@@ -1,0 +1,1 @@
+-wto "fde63687036f43f184f1cc903d4acc44" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "chenille_behav" "xil_defaultlib.chenille" "xil_defaultlib.glbl" -log "elaborate.log" 
